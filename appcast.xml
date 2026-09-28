@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Arked</title>
+        <item>
+            <title>2.0.0</title>
+            <pubDate>Mon, 28 Sep 2026 23:51:30 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/fabds/arked-releases/releases/download/updates/Arked-2.0.0.zip" length="10935846" type="application/octet-stream" sparkle:edSignature="Kh+QBQ90eZov322PameSS54sA07a5d3VCu8FpB3difxmseZIGt9r0kcmNcrSJYuF03yTcymtBOnsnOk5KAG2CQ=="/>
+        </item>
+    </channel>
+</rss>
