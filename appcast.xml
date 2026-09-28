@@ -3,6 +3,17 @@
     <channel>
         <title>Arked</title>
         <item>
+            <title>0.0.2</title>
+            <pubDate>Tue, 29 Sep 2026 00:01:59 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/fabds/arked-releases/releases/download/updates/Arked-0.0.2.zip" length="10935840" type="application/octet-stream" sparkle:edSignature="2SUBm+1l73m9M/le+5USIExaFCa1XJkHcCGQ2arUmMk/voxj2QxfcbEtAok7IuenWygBgHC52mA3ndchkHDbBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/fabds/arked-releases/releases/download/updates/Arked2-1.delta" sparkle:deltaFrom="1" length="6434" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="H3W+SDG6+rKIfjRhiVQQpgUR5iScV2Z/8KjRmEBI6+Djh8P+koWWh6/t27GeieQOkJp4PLgkg9yTtZdQexzXCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>2.0.0</title>
             <pubDate>Mon, 28 Sep 2026 23:51:30 +0200</pubDate>
             <sparkle:version>1</sparkle:version>
