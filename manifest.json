@@ -3,6 +3,8 @@
   "minimumSupportedVersion": "0.0.2",
   "killSwitch": false,
   "downloadURL": "https://github.com/fabds/arked-releases/releases/download/updates/Arked-latest.dmg",
-  "betaCodeHashes": [],
+  "betaCodeHashes": [
+    "d4d2edebeabb5d76c6f33a6112ea7c97f081e9c254300a560004587aaa7e7625"
+  ],
   "allowsUsageOptOut": false
 }
