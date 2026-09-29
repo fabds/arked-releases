@@ -3,6 +3,19 @@
     <channel>
         <title>Arked</title>
         <item>
+            <title>0.0.4</title>
+            <pubDate>Tue, 29 Sep 2026 20:39:50 +0200</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/fabds/arked-releases/releases/download/updates/Arked-0.0.4.zip" length="11283877" type="application/octet-stream" sparkle:edSignature="AAnahR9c+u1cn1MQ3Ez4NlFJQXaDv/DCwKyKzItKd0l5jQFxXtYP66n8uqj3dL+KUZtggMsdPEQp7Dw98zOrAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/fabds/arked-releases/releases/download/updates/Arked4-3.delta" sparkle:deltaFrom="3" length="1650582" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pATYTbu3skN+eb35oLuIaLp7a9uapLBPGBWtwttq+pzHf+EPjF7iwxrPBT5ViJD3PIs4a4WlocdVL2WP99MWCw=="/>
+                <enclosure url="https://github.com/fabds/arked-releases/releases/download/updates/Arked4-2.delta" sparkle:deltaFrom="2" length="1863078" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vTU1jpOzCTa6m8YI6yj+Hhye80tgjkPYjax8/lrW6fpjQNouAbowenHmkviTHeyNKLo8rIFU5jvp5F7d6EqaDg=="/>
+                <enclosure url="https://github.com/fabds/arked-releases/releases/download/updates/Arked4-1.delta" sparkle:deltaFrom="1" length="1857210" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="c/dtdoDKBfzBZcD0lr8Qw9Sp+ecK5ZWvyk45O1J/w1NrYLjWTdkDrBIn+JyPn5AyshI3TbJPqhjO6UOU3TjJCw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.0.3</title>
             <pubDate>Tue, 29 Sep 2026 19:34:47 +0200</pubDate>
             <sparkle:version>3</sparkle:version>
@@ -24,14 +37,6 @@
             <sparkle:deltas>
                 <enclosure url="https://github.com/fabds/arked-releases/releases/download/updates/Arked2-1.delta" sparkle:deltaFrom="1" length="6434" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="H3W+SDG6+rKIfjRhiVQQpgUR5iScV2Z/8KjRmEBI6+Djh8P+koWWh6/t27GeieQOkJp4PLgkg9yTtZdQexzXCg=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>2.0.0</title>
-            <pubDate>Mon, 28 Sep 2026 23:51:30 +0200</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/fabds/arked-releases/releases/download/updates/Arked-2.0.0.zip" length="10935846" type="application/octet-stream" sparkle:edSignature="Kh+QBQ90eZov322PameSS54sA07a5d3VCu8FpB3difxmseZIGt9r0kcmNcrSJYuF03yTcymtBOnsnOk5KAG2CQ=="/>
         </item>
     </channel>
 </rss>
