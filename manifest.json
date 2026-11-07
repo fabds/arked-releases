@@ -1,6 +1,6 @@
 {
-  "latestVersion": "0.0.3",
-  "minimumSupportedVersion": "0.0.3",
+  "latestVersion": "0.0.5",
+  "minimumSupportedVersion": "0.0.5",
   "killSwitch": false,
   "downloadURL": "https://github.com/fabds/arked-releases/releases/download/updates/Arked-latest.dmg",
   "betaCodeHashes": [
